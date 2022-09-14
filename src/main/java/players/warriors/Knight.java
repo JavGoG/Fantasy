@@ -1,4 +1,4 @@
 package players.warriors;
 
-public class Knights {
+public class Knight {
 }
