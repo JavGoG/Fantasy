@@ -1,6 +1,6 @@
 package players.warriors.weapons;
 
-public interface Weapon {
+public interface WeaponWarriors {
     void sword();
     void axe();
     void club();
