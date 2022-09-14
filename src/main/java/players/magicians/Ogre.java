@@ -1,13 +1,9 @@
 package players.magicians;
 
 public class Ogre {
-    private String punch = "Punch";
 
-    public String getPunch() {
-        return punch;
+    public String punch() {
+        return "Punch!";
     }
 
-    public Ogre(String punch) {
-        this.punch = punch;
-    }
 }
